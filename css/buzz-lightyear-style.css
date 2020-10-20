@@ -1,6 +1,9 @@
-div{
-	background-image: url("../img/background.jpg");
-	background-repeat: repeat;
-	background-position: 0px;
-
+body{background-color: lightgrey}
+h1{
+	font-size: 30px;
+	color: teal;
+}
+h4{
+	font-size: 20px;
+	color: hotpink;
 }
